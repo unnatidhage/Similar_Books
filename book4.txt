@@ -1,0 +1,2 @@
+Digital signal processing analyzes numeric data from sensors. Data-driven methods
+IN robotics and embedded systems OFTEN rely on data analysis. THE IN OF A AN AND removed.
